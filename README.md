@@ -33,7 +33,7 @@ source venv/bin/activate  # For Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # 4. Set your environment variables
-# Inside a `.env` file:
+Inside a `.env` file:
 API_KEY=your_api_key_if_needed
 
 # 5. Run the app
